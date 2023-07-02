@@ -28,10 +28,10 @@ src="https://cdn.pixabay.com/photo/2020/10/23/09/31/man-5678220_1280.png" />
 - 📚 I currently finished **a Data Science bootcamp at HyperionDev.**
 
 - 🌱 I’m looking to start:
-- []***Learning Docker***
-- []***Complete the CS50: Introduction to Computer Science | Harvard University***
-- []***Coding on HackerRank or LeetCode***
-- []***Do the homework task we had from previous lectures of the bootcamp***
+  - [ ] ***Learning Docker***
+  - [ ] ***Complete the CS50: Introduction to Computer Science | Harvard University***
+  - [ ] ***Coding on HackerRank or LeetCode***
+  - [ ] ***Do the homework task we had from previous lectures of the bootcamp***
 
 - 👨‍💻 All of my projects are available at [https://georgeghelase.com/projects/](https://georgeghelase.com/projects/)
 
