@@ -23,7 +23,7 @@ src="https://cdn.pixabay.com/photo/2020/10/23/09/31/man-5678220_1280.png" />
 
 ###
 
-<p align="left">Hi there! 👋 I go by the name Georgian, but you can simply call me George.<br><br>
+<p align="left">Hi there! 👋 I go by the name Georgian, but you can call me George.<br><br>
 
 - 📚 I currently finished **a Data Science bootcamp at HyperionDev.**
 
