@@ -33,9 +33,7 @@ src="https://cdn.pixabay.com/photo/2020/10/23/09/31/man-5678220_1280.png" />
   - [ ] ***Coding on HackerRank or LeetCode***
   - [ ] ***Do the homework task we had from previous lectures of the bootcamp***
 
-- 👨‍💻 All of my projects are available at [https://georgeghelase.com/projects/](https://georgeghelase.com/projects/)
-
-- 📄 Know about my experiences [https://georgeghelase.com/cv/](https://georgeghelase.com/cv/)</p>
+- 👨‍💻 All of my projects are available at [https://georgeghelase.com/projects/](https://georgeghelase.com/projects/)</p>
 
 ###
 
