@@ -25,7 +25,7 @@ src="https://cdn.pixabay.com/photo/2020/10/23/09/31/man-5678220_1280.png" />
 
 <p align="left">Hi there! 👋 I'm George, and welcome to my GitHub Profile.<br><br>
 
-- 📚 I currently finished **a Data Science bootcamp at HyperionDev.**
+- 📚 I currently finished **a Data Science Bootcamp at HyperionDev.**
 
 - 🌱 I’m looking to start:
   - [ ] ***Learning Docker/Kubernetes***
