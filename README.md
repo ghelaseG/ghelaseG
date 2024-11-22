@@ -25,13 +25,12 @@ src="https://cdn.pixabay.com/photo/2020/10/23/09/31/man-5678220_1280.png" />
 
 <p align="left">Hi there! 👋 I'm George, and welcome to my GitHub Profile.<br><br>
 
-- 📚 I currently finished **a Data Science Bootcamp at HyperionDev.**
 
 - 🌱 I’m looking to start:
-  - [ ] ***Learning Docker/Kubernetes***
-  - [ ] ***Learning the main Apache applications***
+  - [ ] ***Work with Arduino/Raspberry Pi***
+  - [ ] ***Do volunteer work***
   - [x] ***Coding on HackerRank or LeetCode***
-  - [ ] ***Learning dbt/duckdb***
+  - [ ] ***Master Competitive Programming***
         
 - 👨‍💻 Please visit my profile [https://georgianghelase.com/](https://georgianghelase.com/)</p>
 
