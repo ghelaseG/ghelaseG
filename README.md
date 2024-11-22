@@ -27,8 +27,8 @@ src="https://cdn.pixabay.com/photo/2020/10/23/09/31/man-5678220_1280.png" />
 
 
 - 🌱 I’m looking to start:
-  - [ ] ***Work with Arduino/Raspberry Pi***
-  - [ ] ***Do volunteer work***
+  - [ ] ***Building projects using Arduino/Raspberry Pi***
+  - [ ] ***Volunteer work***
   - [x] ***Coding on HackerRank or LeetCode***
   - [ ] ***Master Competitive Programming***
         
