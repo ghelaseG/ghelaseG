@@ -65,6 +65,8 @@ src="https://cdn.pixabay.com/photo/2020/10/23/09/31/man-5678220_1280.png" />
 
 ###
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=ghelaseG)](https://git.io/streak-stats)
+
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=ghelaseG&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
