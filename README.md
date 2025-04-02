@@ -32,7 +32,7 @@ src="https://cdn.pixabay.com/photo/2020/10/23/09/31/man-5678220_1280.png" />
   - [x] ***Coding on HackerRank or LeetCode***
   - [ ] ***Master Competitive Programming***
         
-- 👨‍💻 Please visit my profile [https://georgianghelase.com/](https://georgianghelase.com/)</p>
+- 👨‍💻 Please visit my profile [Website](https://ghelaseg.github.io/georgeWebsite/)</p>
 
 ###
 
